@@ -17,8 +17,8 @@ require (
 	github.com/prometheus/common v0.30.0
 	github.com/stretchr/testify v1.7.0
 	github.com/twifkak/crypto v0.0.0-20210326012946-1fce8924335d
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/net v0.0.0-20210726213435-c6fcb2dbf985
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	google.golang.org/grpc v1.39.0
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
